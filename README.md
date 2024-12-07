@@ -1,7 +1,10 @@
-## Project Title
+## Climate Change Impact On Mussel Morphology
 
-Firstname Lastname  
+Quyen To  
 OCEAN 215 Final Project  
 Autumn 2024  
 
-*Summarize your research question, goals, and main results in 3-4 sentences.*
+Climate change has always been major issue of the world. With global
+warming that raise the temperature, and glacier melting that brings
+down the salinity level. This project focus on these two effects and 
+how they impact the mussel length in Gulf Of Alaska.
